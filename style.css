@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  background-color: hsl(186, 33%, 65%);
+  /*align-items: center;*/
+  justify-content: space-around;
+}
+
+.position {
+  padding-top: 100px;
+}
+
+.speed_alt {
+  padding-top: 80px;
+}
+
+#altitude {
+
+}
+
+.connection {
+
+}
